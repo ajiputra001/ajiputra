@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Rizki Kotet and I am a Beginner from Indonesia</h2>
+<h2 align="left">Hi 👋! My name is AJIPUTRA and I am a Beginner from Indonesia</h2>
 
 ###
 
